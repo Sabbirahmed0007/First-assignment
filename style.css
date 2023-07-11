@@ -309,7 +309,7 @@ figcaption{
 /* Section seven */
 /* subscribe section  */
 .subscribe-container{
-    background-image: url("/Flower Asset/Rectangle 9.png");
+    background-image: url("../Flower Asset/Rectangle 9.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
